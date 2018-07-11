@@ -1,0 +1,10 @@
+modules/contrib/
+/libraries/
+themes/contrib/
+.DS_Store
+*/.DS_Store
+*.bak.tar.gz
+*.bak
+.sass-cache
+themes/custom/*/assets/css
+themes/custom/*/node_modules

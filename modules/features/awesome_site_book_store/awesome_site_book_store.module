@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Awesome site book store feature.
+ */
+
+include_once 'awesome_site_book_store.features.inc';

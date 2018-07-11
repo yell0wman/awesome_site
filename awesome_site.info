@@ -1,0 +1,7 @@
+name = Awesome Site
+description = Awesome site for test purpose.
+core = 7.x
+
+dependencies[] = features
+dependencies[] = awesome_site_bookstore
+
