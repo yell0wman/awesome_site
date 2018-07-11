@@ -1,10 +1,3 @@
-; Custom make file for domino based projects.
-;
-; Place additional work in this file to extend Domino core.
-; The modules located in domino core will be available to this profile, please
-; utilize them prior to including new work.
-; --------------------------------------------------------------------------------
-
 api = 2
 core = 7.x
 
@@ -28,10 +21,7 @@ projects[ctools][subdir] = contrib
 projects[features][version] = 2.10
 projects[features][subdir] = contrib
 
-projects[features][version] = 2.10
-projects[features][subdir] = contrib
-
-projects[views][version] = 1.0-alpha2
+projects[views][version] = 3.20
 projects[views][subdir] = contrib
 
 projects[views_datasource][version] = 1.0-alpha2
